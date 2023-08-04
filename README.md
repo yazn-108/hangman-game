@@ -1,2 +1,2 @@
 # hangman-game
-hangman game using js
+Game creation course: https://youtu.be/ZFb_eaYtWwY
